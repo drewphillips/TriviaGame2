@@ -1,6 +1,8 @@
 # TriviaGame
 Take 2, I stole better code, much cleaner and easyer to work with and understand, I replaced all the questions, answers and images. I do think I understood most of what the code is doing but the CSS and sizing of the header is still lost on me. but hey its a fun game, I did not link this to my bio page becouse it still looks like poo. Ill take a B please. thanks!
 
+Ill be asking Jeff for one on one help becouse Im so lost on some of this. is that to be expected?
+
 
 Pseudo Code,
 
